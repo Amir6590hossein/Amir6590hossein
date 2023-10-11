@@ -1,8 +1,3 @@
-Hi   I'm Amir Hossein Amjadian . 
- 
-
- I'm a full stack in  Laravel & Reactjs.
-
-student of Kharazmi University.
-
-18 years old
+Hi , I am Amir Hossein Amjadian.
+A student of Kharazmi and
+I am a front-end intern (React js)
